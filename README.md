@@ -2,7 +2,6 @@
 ![Screenshot 2025-03-06 104856](https://github.com/user-attachments/assets/a7553525-678e-4637-93f0-3de625e6e160)
 
 
-
 <br>
 <h1>📊 Adventure Works Sales Analysis – Power BI Dashboard</h1><br>
 
